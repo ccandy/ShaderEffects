@@ -71,9 +71,9 @@ Shader "Andy/PhongShading"
 				#endif
 			}
 
-			float frag(vertexOutput input) : COLOR
+			float4 frag(vertexOutput input) : COLOR
 			{
-				return input.col;
+				return input.pos;
 			}
 
 			ENDCG

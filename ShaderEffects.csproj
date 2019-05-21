@@ -267,6 +267,11 @@
     <None Include="Assets\Texture\LayerOfTexture.shader" />
     <None Include="Assets\Texture\LightingTexture.shader" />
     <None Include="Assets\VariationsOnLighting\BRDF.shader" />
+    <None Include="Assets\VariationsOnLighting\Fresnelhighlight.shader" />
+    <None Include="Assets\VariationsOnLighting\HemisphereLighting.shader" />
+    <None Include="Assets\VariationsOnLighting\ToonShading.shader" />
+    <None Include="Assets\VariationsOnLighting\TranslucentBody.shader" />
+    <None Include="Assets\VariationsOnLighting\TranslucentSurface.shader" />
     <None Include="Assets\WorldSpace\WorldSpace.shader" />
     <None Include="Assets\WorldSpace\WorldSpace2.shader" />
   </ItemGroup>
