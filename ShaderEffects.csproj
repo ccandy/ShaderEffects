@@ -233,6 +233,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\DepthTexture\ScaningEffect\ScanEffect.cs" />
+    <Compile Include="Assets\ImageEffect\BasicImageEffect\BasicImageEffect.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3DTexture\BasicNormalMap.shader" />
@@ -250,6 +251,7 @@
     <None Include="Assets\EnvironmentMap\CubeMap.shader" />
     <None Include="Assets\EnvironmentMap\RefractionMap.shader" />
     <None Include="Assets\EnvironmentMap\SkyBox.shader" />
+    <None Include="Assets\ImageEffect\BasicImageEffect\BasicImageEffect.shader" />
     <None Include="Assets\Lighting\DiffuseLighting\DiffuseLighting.shader" />
     <None Include="Assets\Lighting\DiffuseLighting\DiffuseLightingMuti.shader" />
     <None Include="Assets\Lighting\DiffuseLighting\DiffuseLightingPointLight.shader" />
@@ -258,6 +260,9 @@
     <None Include="Assets\Lighting\SpecularLighting\SpecLighting.shader" />
     <None Include="Assets\Lighting\TwoSideLighting\TwoSideLighting.shader" />
     <None Include="Assets\MiniShader\MiniShader.shader" />
+    <None Include="Assets\NonStandardVertexTransform\Billboard.shader" />
+    <None Include="Assets\NonStandardVertexTransform\OutlinedObject.shader" />
+    <None Include="Assets\NonStandardVertexTransform\ScreenOverlay.shader" />
     <None Include="Assets\OrderIndependentBlending\AdditiveBlending\AdditiveBlending.shader" />
     <None Include="Assets\OrderIndependentBlending\MutiplicativeBlending\MultiplicativeBlending.shader" />
     <None Include="Assets\Texture\BasicTexture.shader" />

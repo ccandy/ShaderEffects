@@ -43,7 +43,7 @@
 			struct vertexInput
 			{
 				float4 vertex	: POSITION;
-				float3 normal	: NORMAL;
+				float3 normal	: NORMAL; // surface normal on object coord
 			};
 
 			struct vertexOutput

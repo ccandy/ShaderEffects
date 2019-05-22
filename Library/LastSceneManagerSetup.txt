@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/3DTexture/Test.unity
+- path: Assets/ImageEffect/Test.unity
   isLoaded: 1
   isActive: 1
