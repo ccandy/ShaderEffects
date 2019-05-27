@@ -234,6 +234,9 @@
   <ItemGroup>
     <Compile Include="Assets\DepthTexture\ScaningEffect\ScanEffect.cs" />
     <Compile Include="Assets\ImageEffect\BasicImageEffect\BasicImageEffect.cs" />
+    <Compile Include="Assets\Miscellaneous\Bezier_Spline.cs" />
+    <Compile Include="Assets\Miscellaneous\Hermite_Curve.cs" />
+    <Compile Include="Assets\Miscellaneous\Spline_Curve.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3DTexture\BasicNormalMap.shader" />
